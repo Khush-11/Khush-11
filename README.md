@@ -5,7 +5,7 @@
 
 <h2>About me</h2>
 
-I am Khushbu Variya , currently working as a full-stack intern at Trusted Communities Organization. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
+I am Khushbu Variya ,I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
 ⚡ Fun Fact: I genuinely enjoy connecting with people and learning about their unique journeys — it broadens my perspective and helps me understand different domains better.
 💬 Feel free to ask me anything — I’m always happy to help! :D
 
